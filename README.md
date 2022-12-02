@@ -8,4 +8,5 @@ Kocham gotować, uwielbiam włoską kuchnie.🍝🍕
 
 Interesuje się koszykówką, bardzo lubię oglądać mecze ligi NBA! 🏀
 
+<h4>Nad czym pracuje<h4>
 Obecnie pracuje wraz z moim teamem nad projektem aplikacji do notatek na studia. 📖
