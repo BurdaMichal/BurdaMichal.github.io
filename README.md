@@ -3,6 +3,7 @@
 
 Nazywam się Michał Burda.👋
 
+<h4>Zainteresowania<h4>
 Kocham gotować, uwielbiam włoską kuchnie.🍝🍕
 
 Interesuje się koszykówką, bardzo lubię oglądać mecze ligi NBA! 🏀
